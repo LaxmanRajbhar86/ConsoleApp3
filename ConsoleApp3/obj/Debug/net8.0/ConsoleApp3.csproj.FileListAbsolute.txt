@@ -1,0 +1,14 @@
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+C:\Laxman\.net\Assignment\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
